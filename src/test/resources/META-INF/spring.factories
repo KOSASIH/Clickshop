@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory=\
+com.kosasih.clickshop.config.KafkaTestContainersSpringContextCustomizerFactory,\
+com.kosasih.clickshop.config.SqlTestContainersSpringContextCustomizerFactory,\
+com.kosasih.clickshop.config.TestContainersSpringContextCustomizerFactory
