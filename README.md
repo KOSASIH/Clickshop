@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Clickshop/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Clickshop/tree/main)
+
 # Clickshop
 
 Clickshop is an online shopping platform that provides users with a seamless and convenient shopping experience. It offers a wide range of products across various categories, allowing customers to browse, search, and purchase items with ease. This repository contains the source code and documentation for Clickshop.
